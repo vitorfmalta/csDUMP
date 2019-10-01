@@ -1,0 +1,10 @@
+C:\Users\user\Documents\Visual Studio 2017\ProjetoReadBigFile\ProjetoReadBigFile\bin\Debug\ProjetoReadBigFile.exe.config
+C:\Users\user\Documents\Visual Studio 2017\ProjetoReadBigFile\ProjetoReadBigFile\bin\Debug\ProjetoReadBigFile.exe
+C:\Users\user\Documents\Visual Studio 2017\ProjetoReadBigFile\ProjetoReadBigFile\bin\Debug\ProjetoReadBigFile.pdb
+C:\Users\user\Documents\Visual Studio 2017\ProjetoReadBigFile\ProjetoReadBigFile\obj\Debug\ProjetoReadBigFile.csprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\ProjetoReadBigFile\ProjetoReadBigFile\obj\Debug\ProjetoReadBigFile.Form1.resources
+C:\Users\user\Documents\Visual Studio 2017\ProjetoReadBigFile\ProjetoReadBigFile\obj\Debug\ProjetoReadBigFile.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2017\ProjetoReadBigFile\ProjetoReadBigFile\obj\Debug\ProjetoReadBigFile.csproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2017\ProjetoReadBigFile\ProjetoReadBigFile\obj\Debug\ProjetoReadBigFile.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\ProjetoReadBigFile\ProjetoReadBigFile\obj\Debug\ProjetoReadBigFile.exe
+C:\Users\user\Documents\Visual Studio 2017\ProjetoReadBigFile\ProjetoReadBigFile\obj\Debug\ProjetoReadBigFile.pdb
