@@ -1,0 +1,1 @@
+Esse projeto lê arquivos de extrato do banco do brasil e carrega um grid "desenhado" via codigo usando linq e conceitos de ioc
